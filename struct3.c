@@ -25,6 +25,6 @@ void main() {
     // struct studentdata *s2;
     printf("\t%d\t%s\t%d\t%d\t%s",s1.marks,s1.name,s1.roll,s1.sc1.id,s1.sc1.sname);
 
-    printf("\n%d\t%d",&s1,&s1.sc1);
+    // printf("\n%d\t%d",&s1,&s1.sc1);
     return ;
 }
